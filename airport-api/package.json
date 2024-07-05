@@ -1,0 +1,17 @@
+{
+  "name": "airport-api",
+  "version": "1.0.0",
+  "description": "API for querying airport details",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.37"
+  },
+  "devDependencies": {}
+}
+
